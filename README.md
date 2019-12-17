@@ -23,3 +23,5 @@ Names|Class
 -----|-----
 Ferrari| Race car
 Mclaren|Race car
+Volvo|Family car
+Porsche|Luxury car
